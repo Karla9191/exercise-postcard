@@ -1,26 +1,38 @@
 
 .container-1{
-    margin: auto;
+  background-color: red;
+  width: 150px;
+  float: left;
+  height: 100px;
+  padding: 20px;
 }
 .container-2{
 
-    background: gray;
+  background-color: blue;
+  height: 100px;
+  padding: 20px;
+  color: white;
+  overflow: hidden;
 }
-.container-3{
 
-    background: green;
 
+/*
+
+#div1 {
+  background-color: red;
+  width: 150px;
+  float: left;
+  height: 100px;
+  padding: 20px;
 }
-.container-4{
-
-    background: hotpink;
-
+#div2 {
+  background-color: blue;
+  height: 100px;
+  padding: 20px;
+  color: white;
+  overflow: hidden;
 }
-.container-5{
 
-    background: indianred;
 
-}
-.container-6{
-    background: indigo;
-}
+
+*/
