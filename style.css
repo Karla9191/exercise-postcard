@@ -1,38 +1,69 @@
 
+.container-0{
+  background-color: red;
+  height: 400px;
+  width: 500px;
+}
+
+
 .container-1{
-  background-color: red;
-  width: 150px;
-  float: left;
-  height: 100px;
-  padding: 20px;
+  background-color:gray;
+  height: 110px;
+  width: auto;
+  
 }
+
 .container-2{
-
-  background-color: blue;
+  background-color:white;
+  margin: 5px 5px;
   height: 100px;
-  padding: 20px;
-  color: white;
-  overflow: hidden;
-}
-
-
-/*
-
-#div1 {
-  background-color: red;
-  width: 150px;
+  width: 320px;
   float: left;
+ 
+} 
+
+.container-3{
+  background-color:white;
+  margin: 5px 5px;
   height: 100px;
-  padding: 20px;
-}
-#div2 {
-  background-color: blue;
-  height: 100px;
-  padding: 20px;
-  color: white;
-  overflow: hidden;
+  width: 160px;
+  float: right;
+  
 }
 
+.container-4{
+  background-color:gray;
+  height:200px;
+  width: 500px;
+  margin:5px auto;
+  
+}
+
+.container-5{
+  background-color:white;
+  height: 190px;
+  width: 260px; 
+  margin: auto 10px;
+  float: left;
+
+}
 
 
-*/
+.container-6{
+  background-color:white;
+  height: 190px;
+  width: 200px;
+  float: right;
+  margin: auto 10px;
+ 
+}
+
+.container-7{
+  background-color:white;
+  height: 90px;
+  width: 500px;
+  margin: 5px auto;
+  float: right;
+  padding-bottom: 10px;
+}
+
