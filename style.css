@@ -27,6 +27,7 @@
   height: 100px;
   width: 320px;
   float: left;
+  font-family: 'Handlee', cursive;
  
 } 
 
@@ -37,6 +38,8 @@
   width: 160px;
   float: right;
   text-align: right;
+  
+  
 }
 
 .container-4{
@@ -44,6 +47,7 @@
   height:200px;
   width: 500px;
   margin:5px auto;
+  font-family: 'Handlee', cursive;
   
   
 }
@@ -69,9 +73,11 @@
 
 .container-7{
   
-  height: 90px;
+  height: 70px;
   width: 500px;
   margin: 5px auto;
   float: right;
+  ;
 }
 
+/* background-color: #e7e7e7; color: black -como un container en gris*/
