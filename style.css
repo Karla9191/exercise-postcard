@@ -97,6 +97,9 @@
     border: none;
     font-size: 15px;
     font-family: 'Handlee', cursive;
+    margin: 2px;
+    height: 30px;
+    text-decoration-line: underline;
 }
 
 #sEmail{
@@ -104,6 +107,8 @@
     border: none;
     font-size: 15px;
     font-family: 'Handlee', cursive;
+    margin: 2px;
+    height: 30px;
 }
 
 #sComment{
@@ -111,5 +116,7 @@
     border: none;
     font-size: 15px;
     font-family: 'Handlee', cursive;
+    margin: 2px;
+    height: 30px;
 }
 /* background-color: #e7e7e7; color: black -como un container en gris*/
