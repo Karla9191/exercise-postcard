@@ -96,6 +96,8 @@
     width: 190px;
     background-color: transparent;
     color: gray;
+    outline: none;
+    border-bottom: solid;
    
     
 }
@@ -110,7 +112,11 @@
     width: 190px;
     background-color: transparent;
     color: gray;
+    outline: none;
+    border-bottom: solid;
 }
+
+
 
 #sComment{
    
@@ -122,5 +128,7 @@
     width: 190px;
     background-color: transparent;
     color: gray;
+    outline: none;
+    border-bottom: solid;
 }
 /* background-color: #e7e7e7; color: black -como un container en gris*/
