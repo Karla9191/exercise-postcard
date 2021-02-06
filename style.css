@@ -24,7 +24,16 @@
   width: 320px;
   float: left;
   font-family: 'Handlee', cursive;
+  font-weight: bolder;
 } 
+
+.container-2 > h1{
+
+    font-weight: bolder;
+    padding-left: 25px;
+    padding-top: 20px;
+
+}
 
 .container-3{
   margin: 5px 5px;
@@ -46,6 +55,7 @@
   width: 260px; 
   margin: auto 10px;
   float: left;
+  font-weight: bold;
 }
 
 
@@ -65,7 +75,7 @@
 }
 
 .btn{
-    background-color: #e7e7e7;
+    background-color: #e6e6e6;
     text-align: center;
     font-size: 15px;
     font-family: 'Handlee', cursive;
@@ -77,33 +87,40 @@
 }
 
 #sName{
-    background-color: #e7e7e7;
+    
     border: none;
     font-size: 15px;
     font-family: 'Handlee', cursive;
     margin: 2px;
     height: 30px;
     width: 190px;
-    text-decoration-line: underline;
+    background-color: transparent;
+    color: gray;
+   
+    
 }
 
 #sEmail{
-    background-color: #e7e7e7;
+    
     border: none;
     font-size: 15px;
     font-family: 'Handlee', cursive;
     margin: 2px;
     height: 30px;
     width: 190px;
+    background-color: transparent;
+    color: gray;
 }
 
 #sComment{
-    background-color: #e7e7e7;
+   
     border: none;
     font-size: 15px;
     font-family: 'Handlee', cursive;
     margin: 2px;
     height: 30px;
     width: 190px;
+    background-color: transparent;
+    color: gray;
 }
 /* background-color: #e7e7e7; color: black -como un container en gris*/
