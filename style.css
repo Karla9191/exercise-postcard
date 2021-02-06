@@ -84,6 +84,7 @@
     font-weight: bolder;
     box-shadow: 0 2px #666;
     cursor: pointer;
+    height: 30px;
 }
 
 #sName{
